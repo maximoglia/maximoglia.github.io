@@ -49,7 +49,7 @@ nav{
    padding: auto;
 }
 .menu .item a{
-    color:aliceblue;
+    color:rgb(120, 169, 212);
     text-decoration: none;
     display: inline-block;
     padding: 20px;
@@ -57,15 +57,11 @@ nav{
 }
 
 .menu .item a:hover{
-    color: aquamarine;
+    color: rgb(216, 146, 55);
 }
 .menu .item:hover .submenu{
     display: inline;
 
-}
-.menu .item:hover a{
-    background-color: beige;
-    color: blue;
 }
 
 .section1{
@@ -170,4 +166,8 @@ footer{
     padding: 0%;
     margin: 0%;
     
+}
+
+.botones{
+    background-color: blanchedalmond;
 }
